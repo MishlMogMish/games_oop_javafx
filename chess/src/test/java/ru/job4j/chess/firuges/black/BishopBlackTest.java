@@ -4,9 +4,7 @@ import org.junit.jupiter.api.Test;
 import ru.job4j.chess.ImpossibleMoveException;
 import ru.job4j.chess.firuges.Cell;
 import ru.job4j.chess.firuges.Figure;
-
 import static org.junit.jupiter.api.Assertions.assertThrows;
-
 import static org.assertj.core.api.Assertions.*;
 
 class BishopBlackTest {
